@@ -1,4 +1,4 @@
-# 翔哥DUFF - 饰品交易平台前端实现 
+# DUFF - 饰品交易平台前端实现 
 
 [![GitHub stars](https://img.shields.io/github/stars/autopoet/RepositoryFirst?style=flat-square)](https://github.com/autopoet/RepositoryFirst/stargazers)
 ![Language](https://img.shields.io/badge/language-HTML5%20%2F%20CSS3%20%2F%20JS-orange)
